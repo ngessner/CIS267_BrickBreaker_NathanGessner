@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Paddle
+  - Ball
+  - Brick
+  - DeathBox
+  - ShrinkBall
+  - LargeBall
+  - MultiBall
+  - CopiedBall
   layers:
   - Default
   - TransparentFX
